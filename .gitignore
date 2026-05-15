@@ -1,0 +1,43 @@
+# Flutter/Dart/Pub
+.dart_tool/
+.packages
+.pub-cache/
+.buildlog.json
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+*.log
+**/build/
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Generated.xcconfig
+**/.symlinks/
+**/Pods/
+**/flutter_export_environment.sh
+**/GeneratedPluginRegistrant.*
+pubspec.lock
+
+# Android
+**/android/app/debug.keystore
+**/android/key.properties
+
+# Xcode
+**/ios/Runner/GeneratedPluginRegistrant.*
+**/ios/Pods/
+**/ios/Runner.xcworkspace/
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/ephemeral/
+
+# Misc
+*.class
+*.lock
+*.log
+*.pyc
+*.swp
+.DS_Store
